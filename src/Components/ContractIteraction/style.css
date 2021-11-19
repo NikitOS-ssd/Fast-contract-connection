@@ -1,0 +1,14 @@
+.user-info-message > span {
+  text-decoration: underline;
+}
+.connect-button {
+  background: 0;
+  border: none;
+  font-size: 25px;
+  color: lightblue;
+  border: 2px solid lightblue;
+  padding: 6px 18px;
+  border-radius: 10px;
+  outline: 0;
+  cursor: pointer;
+}
